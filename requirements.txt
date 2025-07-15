@@ -1,0 +1,17 @@
+streamlit
+requests
+pillow
+python-dotenv
+pandas
+numpy
+oracledb
+sentence-transformers
+oci
+cohere
+langchain
+langchain-community
+langchain-core
+langgraph
+PyPDF2
+openpyxl
+xlrd
